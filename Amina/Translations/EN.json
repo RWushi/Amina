@@ -1,0 +1,30 @@
+{
+  "Commands": {
+    "start": "Start/restart"
+  },
+  "Subcommon": {
+    "return_back": "Go back⤴️"
+  },
+  "Languages": {
+    "language_chosen": "Russian language applied, to change it - restart the bot"
+  },
+  "Menu": {
+    "menu": "Choose a section (you need to press the button below)",
+    "about": "About the bot📚",
+    "day": "How was your day❓",
+    "meeting": "Meeting place🗺",
+    "secret": "Share a secret⚠️",
+    "rate": "Leave a rating✨",
+    "rwushi": "🔮Made by RWushi🔮"
+  },
+  "Questions": {
+    "about": "This bot was built especially for you.\n\nI used the latest libraries and technologies that are used in professional large-scale projects :)\nAdvanced database with an asynchronous driver, optimized multilingual system, standard project structure, webhook usage – all for you. Not even all large projects have this.",
+    "day": "Tell me how your day was? In detail and color. Did you decide to relax and have a drink? I’ll respond to you privately.",
+    "meeting": "Here you can express where you'd like to meet. You don't have to be exact, you can just mention the type of place. I can't promise it'll be exactly what you want, but your preference will certainly be taken into account.",
+    "secret": "Here you can share something important. I don't know, maybe there's something you want to say.",
+    "rate": "Here you can share your impressions, as usual in detail and color.",
+    "rwushi": "This was developed based on my latest projects, which are used in real production.\nIt was made in less than 3 hours by a talented developer – that is, me.\nOf course, it could have been better, but I was in a hurry because today I had to pass a test to confirm the highest level of qualification by American standards.",
+    "reply": "Your response has been recorded)\nYou can go back and press other buttons, there are only a few haha",
+    "no_need": "No need to respond here, but thank you :)"
+  }
+}
